@@ -44,7 +44,6 @@ function moveFocus() {
     document.getElementById("changeRoomName").focus();
 }
 
-
 moveFocus();
 newRoom();
 
